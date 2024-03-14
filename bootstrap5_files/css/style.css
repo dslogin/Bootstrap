@@ -114,6 +114,13 @@ footer {
 .itd_img {
   max-width: 260px;
 }
+/* Отзыв */
+.people-img {
+  border: 3px solid var(--color1);
+}
+.review p {
+  text-align: justify;
+}
 
 /* Colors */
 .color1 {
