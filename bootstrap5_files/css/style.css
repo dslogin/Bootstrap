@@ -2,8 +2,6 @@
   --color1: teal;
   --color2: purple;
 }
-header,
-footer,
 section {
   padding: 100px 0;
 }
@@ -121,7 +119,10 @@ footer {
 .review p {
   text-align: justify;
 }
-
+/* подвал */
+footer {
+  padding: 30px 0;
+}
 /* Colors */
 .color1 {
     color: var(--color1);
